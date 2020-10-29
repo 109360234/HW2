@@ -1,0 +1,10 @@
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\bin\Debug\HW非C++.exe.config
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\bin\Debug\HW非C++.exe
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\bin\Debug\HW非C++.pdb
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C++.csprojAssemblyReference.cache
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C__.Form1.resources
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C__.Properties.Resources.resources
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C++.csproj.GenerateResource.cache
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C++.csproj.CoreCompileInputs.cache
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C++.exe
+D:\desktop\109360234_HW2\4.28\HW非C++\HW非C++\obj\Debug\HW非C++.pdb

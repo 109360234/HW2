@@ -1,0 +1,4 @@
+﻿  main.c
+D:\desktop\109360234_HW2\3.18\source\main.c(6,9): warning C4550: 運算式評估為遺漏引數清單的函式
+D:\desktop\109360234_HW2\3.18\source\main.c(16,30): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  HW.vcxproj -> D:\desktop\109360234_HW2\3.18\HW\Debug\HW.exe

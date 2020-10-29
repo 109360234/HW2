@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(476,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  main.c
+D:\desktop\109360234_HW2\4.28\source\main.c(8,9): warning C4550: 運算式評估為遺漏引數清單的函式
+D:\desktop\109360234_HW2\4.28\source\main.c(31,67): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\desktop\109360234_HW2\4.28\source\main.c(38,48): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\desktop\109360234_HW2\4.28\source\main.c(7,103): warning C4101: 'a': 未參考的區域變數
+  HW.vcxproj -> D:\desktop\109360234_HW2\4.28\HW\HW\..\..\temp\debug\HW.exe
